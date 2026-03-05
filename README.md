@@ -2,7 +2,7 @@
 
 
 # 💫 About Me: 
-🔭 ’m currently Studying BSc.CSIT<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Reactjs, Nodejs and Nextjs<br>📫 How to reach me anubhavpokhrel70@gmail.com<br>⚡ Fun fact: Just keep Coding 😁
+🔭 ’m currently Studying BSc.CSIT<br>🌱 I’m currently learning Reactjs, Nodejs and Nextjs<br>📫 How to reach me anubhavpokhrel70@gmail.com<br>⚡ Fun fact: Just keep Coding 😁
 
 
 ## 🌐 Socials:
