@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anubhav 👋</h1>
+<h5 >Anubhav 👋</h5>
 
 <p align="center"><em>Learning AI and ML</em></p>
 
