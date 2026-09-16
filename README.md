@@ -15,7 +15,7 @@
 Frontend Developer with hands-on industry experience building responsive, performant web applications. Passionate about crafting clean, accessible user interfaces and solving real-world engineering problems.
 
 ## 🌱 Learning
-I’m currently working on -Into AI Engineering 🤖  -Learning Python, Machine Learning, Deep Learning & Generative AI -Building and exploring intelligent applications.
+I’m currently working on -Into AI  🤖  -Learning Machine Learning, Deep Learning & Generative AI -Building and exploring intelligent applications.
 
 ## 🛠️ Tech Stack & Skills
 
