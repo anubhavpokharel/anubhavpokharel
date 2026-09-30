@@ -14,7 +14,7 @@
 
 Frontend Developer with hands-on industry experience building responsive, performant web applications. Passionate about crafting clean, accessible user interfaces and solving real-world engineering problems.
 
-![Portfolio](https://portfolio-xi-green-38.vercel.app/)
+Portfolio: (https://portfolio-xi-green-38.vercel.app/)
 
 ## 🌱 Learning
 I’m currently working on -Into AI  🤖  -Learning Machine Learning, Deep Learning & Generative AI -Building and exploring intelligent applications.
